@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**scaIIywag/scaIIywag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/71dcecd3-ef58-40d1-8e8c-512d7942cd7f" />
 
-Here are some ideas to get you started:
+${\space}$
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+${\color{#b44e33} sign \space}$ 
+${\color{#928950} my \space}$
+[atab](https://kiribaku.atabook.org/)
+
+
+${\space}$
+
+<img width="170" height="100" alt="image" src="https://github.com/user-attachments/assets/2ae22423-d4d2-493f-8833-ec2e6be9f4d6" />
+
+
